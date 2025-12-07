@@ -1,0 +1,3 @@
+/home/ubuntu/nvbandwidth/CMakeFiles/nvbandwidth.dir
+/home/ubuntu/nvbandwidth/CMakeFiles/edit_cache.dir
+/home/ubuntu/nvbandwidth/CMakeFiles/rebuild_cache.dir
