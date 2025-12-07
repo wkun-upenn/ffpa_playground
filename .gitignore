@@ -1,0 +1,45 @@
+*.so
+*.a
+*.dylib
+*.dll
+*.lib
+.DS_Store
+build
+*.whl
+__pycache__
+*.onnx
+*.engine
+*.pt
+*.pth
+*.nsys*
+*.ncu*
+*.sqlite*
+*.engine
+*.bin 
+outupt
+*.egg-info
+dist
+bin
+.cache
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache / build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# IDE / editor stuff
+.vscode/
+.idea/
+*.swp
+
+# Logs / temp
+*.log
