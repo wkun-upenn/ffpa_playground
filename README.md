@@ -275,3 +275,17 @@ This pulls the generated plots and benchmark tables back locally.
 - FFPA L1 significantly outperforms SDPA EA on GH200, with **≈2× speedups** in the best regions of `D`.
 - FFPA+ACC+F16 is the fastest path; FFPA+ACC+F32 offers a good trade-off between numerical stability and throughput.
 - The installation and benchmarking flow on Lambda.ai is now fully scripted and reproducible via this README.
+
+## References
+
+[1] **FFPA-Attn Repository**  
+  https://github.com/wkun-upenn/ffpa-attn  
+
+[2] **FFPA Technical Article (Zhihu)**  
+  https://zhuanlan.zhihu.com/p/13975660308  
+
+[3] **NVIDIA CUTLASS (GitHub Source, pinned revision)**  
+  https://github.com/NVIDIA/cutlass/tree/b78588d1630aa6643bf021613717bafb705df4ef  
+
+[4] **NVIDIA CUTLASS Official Documentation**  
+  https://docs.nvidia.com/cutlass/latest/
