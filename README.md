@@ -17,7 +17,7 @@ This document summarizes the FFPA-Attn benchmark results which can be viewed in 
 
 ---
 
-## 🔵 2. Speedup — FFPA+ACC+F32+L1 vs SDPA EA
+## 2. Speedup — FFPA+ACC+F32+L1 vs SDPA EA
 
 ![FFPA+ACC+F32+L1 Speedup](tests/tmp/NVIDIA_GH200_480GB_ffpa+acc+f32+L1_Speedup.png)
 
@@ -69,7 +69,7 @@ This document summarizes the FFPA-Attn benchmark results which can be viewed in 
 ---
 
 <details>
-<summary><strong> Installation & Benchmarking on Lambda.ai (click to expand)</strong></summary>
+<summary><h2> Installation & Benchmarking on Lambda.ai (click to expand)</h2></summary>
 
 ### 1. Connect to Lambda Instance (from Mac)
 
@@ -268,6 +268,7 @@ rsync -avz --progress ubuntu@<INSTANCE_IP>:~/ffpa-attn/tests/tmp/ <PATH OF FILE>
 This pulls the generated plots and benchmark tables back locally.
 
 ---
+</details>
 
 ## Summary
 
